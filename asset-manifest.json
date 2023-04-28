@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/static/css/main.2de4a229.css",
-    "main.js": "/static/js/main.2f54945c.js",
-    "static/media/Java-Servlet-Tutorial.pdf": "/static/media/Java-Servlet-Tutorial.f86171d7cb2ac2d679ea.pdf",
-    "static/media/logo.svg": "/static/media/logo.a79744bbaf71bf759a620babcd7b2570.svg",
-    "index.html": "/index.html",
-    "static/media/close.svg": "/static/media/close.a591c5268e7cbcfeb569c6afea5745fc.svg",
-    "static/media/me.svg": "/static/media/me.db72c8cb34ee39d7182f2f23d717372a.svg",
-    "static/media/open.svg": "/static/media/open.e6bd41ec79183186fdb132e92b58c1de.svg",
-    "main.2de4a229.css.map": "/static/css/main.2de4a229.css.map",
-    "main.2f54945c.js.map": "/static/js/main.2f54945c.js.map"
+    "main.css": "/Portfolio/static/css/main.2de4a229.css",
+    "main.js": "/Portfolio/static/js/main.1cc89d37.js",
+    "static/media/Java-Servlet-Tutorial.pdf": "/Portfolio/static/media/Java-Servlet-Tutorial.f86171d7cb2ac2d679ea.pdf",
+    "static/media/logo.svg": "/Portfolio/static/media/logo.a79744bbaf71bf759a620babcd7b2570.svg",
+    "index.html": "/Portfolio/index.html",
+    "static/media/close.svg": "/Portfolio/static/media/close.a591c5268e7cbcfeb569c6afea5745fc.svg",
+    "static/media/me.svg": "/Portfolio/static/media/me.db72c8cb34ee39d7182f2f23d717372a.svg",
+    "static/media/open.svg": "/Portfolio/static/media/open.e6bd41ec79183186fdb132e92b58c1de.svg",
+    "main.2de4a229.css.map": "/Portfolio/static/css/main.2de4a229.css.map",
+    "main.1cc89d37.js.map": "/Portfolio/static/js/main.1cc89d37.js.map"
   },
   "entrypoints": [
     "static/css/main.2de4a229.css",
-    "static/js/main.2f54945c.js"
+    "static/js/main.1cc89d37.js"
   ]
 }
