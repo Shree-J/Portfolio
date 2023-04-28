@@ -3,7 +3,7 @@ import { motion } from "framer-motion";
 import SocialIcons from "../components/SocialIcons";
 import { useInView } from "react-intersection-observer";
 import { useState, useEffect } from "react";
-import resume from "../pages/about/michael-yeates-resume.pdf";
+import resume from "../pages/about/Java-Servlet-Tutorial.pdf";
 
 const AboutMe = ({ name, email, location, availability, brand }) => {
   const [ref, inView] = useInView({
@@ -21,7 +21,7 @@ const AboutMe = ({ name, email, location, availability, brand }) => {
     setDownloading(true);
     const link = document.createElement("a");
     link.href = resume;
-    link.download = "Michael-Yeates-Resume.pdf";
+    link.download = "Java-Servlet-Tutorial.pdf";
     link.onload = () => {
       link.remove();
       setDownloading(false);
@@ -40,7 +40,7 @@ const AboutMe = ({ name, email, location, availability, brand }) => {
           animate={inView ? { x: 0, opacity: 1 } : { x: "-10vw", opacity: 0 }}
           transition={{ duration: 0.4, ease: "easeInOut" }}
         >
-          <img src={aboutMeImg} alt={name} />
+          
         </motion.div>
         <motion.div
           className="personalInfo col-12 col-lg-8"
